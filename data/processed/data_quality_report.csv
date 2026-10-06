@@ -1,0 +1,10 @@
+Check,Value
+Total Rows,220833
+Unique Countries,244
+Minimum Date,2020-01-22 00:00:00
+Maximum Date,2023-03-09 00:00:00
+Duplicate Country-Date Records,0
+Missing Confirmed,6
+Missing Deaths,139
+Missing Recovered,114479
+Failed Source Files,0
